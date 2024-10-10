@@ -10,7 +10,7 @@ criaCartao(
 
 criaCartao(
     'Astronomia',
-    'O que provoca as fases da Lua?',
+    '3) O que provoca as fases da Lua?',
     'As fases da Lua são causadas pela posição relativa da Lua, Terra e Sol.')
 
 criaCartao(
