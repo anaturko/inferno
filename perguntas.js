@@ -1,7 +1,7 @@
 criaCartao(
     'Astronomia',
-    '1)QO que é uma estrela?',
-    'Jma esfera de plasma que gera luz e calor por meio de reações nucleares.')
+    '1)O que é uma estrela?',
+    'Uma esfera de plasma que gera luz e calor por meio de reações nucleares.')
 
 criaCartao(
     'Astronomia',
