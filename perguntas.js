@@ -1,99 +1,99 @@
 criaCartao(
-    'Astronomia',
-    '1)O que é uma estrela?',
-    'Uma esfera de plasma que gera luz e calor por meio de reações nucleares.')
+    'html',
+    '1)O que significa a sigla HTML?',
+    'HTML significa HyperText Markup Language.')
 
 criaCartao(
-    'Astronomia',
-    '2)O que é uma galáxia?',
-    'um conjunto de estrelas, gás, poeira e matéria escura, gravitando em torno de um centro comum.')
+    'html',
+    '2)O que é um elemento <div> no HTML?',
+    ' é uma tag de bloco usada para agrupar outros elementos HTML, geralmente para fins de estilização ou organização do layout.')
 
 criaCartao(
-    'Astronomia',
-    '3) O que provoca as fases da Lua?',
-    'As fases da Lua são causadas pela posição relativa da Lua, Terra e Sol.')
+    'html',
+    '3)Qual a função da tag <head> em um documento HTML?',
+    'A tag <head> contém metadados sobre o documento, como o título da página, links para arquivos CSS, fontes externas e scripts.')
 
 criaCartao(
-    'Astronomia',
-    '4) Qual é o planeta mais próximo do Sol?',
-    'Mercúrio.')
+    'html',
+    '4)O que faz a tag <a> em HTML?',
+    ' é usada para criar links (âncoras), permitindo navegação entre páginas ou para outras URLs.')
 
 criaCartao(
-    'Astronomia',
-    '5)O que é um buraco negro?',
-    'é uma região do espaço com gravidade tão intensa que nada pode escapar dele.')
+    'html',
+    '5)Como inserir uma imagem em HTML?',
+    'Usando a tag <img> e o atributo src para definir o caminho da imagem. Exemplo: <img src="imagem.jpg" alt="Descrição">')
 
 criaCartao(
-    'Fisica',
-    '6)O que é a força?',
-    'uma interação que altera o estado de movimento de um objeto.')
+    'html',
+    '6)O que é o atributo alt em uma tag <img>?',
+    'O atributo alt fornece uma descrição textual da imagem, que é exibida caso a imagem não carregue ou para leitores de tela.')
 
 criaCartao(
-    'Fisica',
-    '7)Qual é a fórmula da velocidade?',
-    'Velocidade = Distância / Tempo.')
+    'html',
+    '7)Qual é a diferença entre as tags <ul> e <ol>?',
+    ' é uma lista não ordenada (usada com marcadores), enquanto <ol> é uma lista ordenada (com números ou letras).')
 
 criaCartao(
-    'Fisica',
-    '8)O que é energia cinética?',
-    'É a energia que um objeto possui devido ao seu movimento.')
+    'html',
+    '8)O que faz a tag <meta> no HTML?',
+    'A tag <meta> define metadados, como a codificação de caracteres, autor da página, e configurações para dispositivos móveis.')
 
 criaCartao(
-    'Fisica',
-    '9)O que é gravidade?',
-    ' é a força de atração entre dois corpos com massa.')
+    'html',
+    '9)Como você cria um formulário em HTML?',
+    'Usando a tag <form> com diferentes tipos de campos de entrada, como <input>, <textarea>, <select>, etc..')
 
 criaCartao(
-    'Fisica',
-    '10) O que é a Lei de Newton da Ação e Reação?',
-    'Para cada ação, há uma reação igual e oposta.')
+    'html',
+    '10)O que é uma tag <section>?',
+    'A tag <section> é usada para agrupar conteúdo tematicamente relacionado, como uma seção de um artigo ou página.')
 
 criaCartao(
-    'Quimica',
-    '11)O que é um elemento químico?',
-    'é uma substância que não pode ser decomposta em substâncias mais simples.')
+    'cssl',
+    '11)O que significa CSS?',
+    'CSS significa Cascading Style Sheets')
 
 criaCartao(
-    'Quimica',
-    '12)O que é uma reação química?',
-    'É o processo em que substâncias se transformam em novas substâncias.')
+    'css',
+    '12)Como você altera a cor de fundo de um elemento usando CSS?',
+    'Usando a propriedade background-color ; ')
 
 criaCartao(
-    'Quimica',
-    '13)O que são ácidos?',
-    'Ácidos são substâncias que liberam íons de hidrogênio em solução aquosa.')
+    'css',
+    '13)O que é a propriedade display em CSS?',
+    'A propriedade display define como o elemento é exibido na página, podendo ser block, inline, flex, grid, entre outros.')
 
 criaCartao(
-    'Quimica',
-    '14)O que é uma molécula?',
-    'Uma molécula é um conjunto de dois ou mais átomos ligados quimicamente.')
+    'css',
+    '14)Como você aplica um estilo somente para telas pequenas (como em dispositivos móveis)?',
+    'Usando uma media query.')
 
 criaCartao(
-    'Quimica',
-    '15)O que é pH?',
-    'pH é uma medida da acidez ou alcalinidade de uma solução.')
+    'css',
+    '15)O que faz a propriedade position: absolute',
+    'Define que o elemento será posicionado em relação ao seu elemento pai mais próximo com position: relative ou ao body se não houver elemento posicionado.')
 
 criaCartao(
-    'Conhecimento Geral',
-    '16)Qual é o maior planeta do Sistema Solar?',
-    'Jupiter')
+    'css',
+    '16)Como você centraliza um elemento horizontalmente usando CSS?',
+    'Usando margin: 0 auto; em um elemento com largura definida.')
 
 criaCartao(
-    'Conhecimento Geral',
-    '17)O que é a teoria da relatividade?',
-    'É uma teoria proposta por Einstein que descreve a gravidade como a curvatura do espaço-tempo.')
+    'css',
+    '17)O que é o modelo de caixa (box model) em CSS?',
+    'O modelo de caixa descreve o comportamento de margens, bordas, preenchimentos e o conteúdo de um elemento HTML. Inclui as propriedades margin, border, padding e content.')
 
 criaCartao(
-    'Conhecimento Geral',
-    '18)O que são reações endotérmicas?',
-    'Reações que absorvem energia na forma de calor.')
+    'css',
+    '18)Qual é a diferença entre margin e padding?',
+    'margin é o espaço externo de um elemento, enquanto padding é o espaço interno entre o conteúdo e a borda do elemento.')
 
 criaCartao(
-    'Conhecimento Geral',
-    '19)O que é um íon??',
-    'é um átomo ou molécula que perdeu ou ganhou elétrons, adquirindo carga elétrica.')
+    'js',
+    '19)O que é um array em JavaScript?',
+    'Um array é uma estrutura de dados que armazena uma lista de valores em uma única variável.')
 
 criaCartao(
-    'Conhecimento Geral',
-    '20)O que é o ciclo da água?',
-    'O ciclo da água é o movimento contínuo da água entre a superfície da Terra e a atmosfera.')
+    'js',
+    '20)Como você cria uma função em JavaScript?',
+    'Você pode criar uma função usando a palavra-chave function. ')
