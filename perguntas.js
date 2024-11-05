@@ -10,43 +10,43 @@ criaCartao(
 
 criaCartao(
     'html',
-    '3)Qual a função da tag <head> em um documento HTML?',
-    'A tag <head> contém metadados sobre o documento, como o título da página, links para arquivos CSS, fontes externas e scripts.')
+    '3)Qual a função da tag head em um documento HTML?',
+    'A tag head contém metadados sobre o documento, como o título da página, links para arquivos CSS, fontes externas e scripts.')
 
 criaCartao(
     'html',
-    '4)O que faz a tag <a> em HTML?',
+    '4)O que faz a tag a em HTML?',
     ' é usada para criar links (âncoras), permitindo navegação entre páginas ou para outras URLs.')
 
 criaCartao(
     'html',
     '5)Como inserir uma imagem em HTML?',
-    'Usando a tag <img> e o atributo src para definir o caminho da imagem. Exemplo: <img src="imagem.jpg" alt="Descrição">')
+    'Usando a tag img e o atributo src para definir o caminho da imagem. Exemplo: img src="imagem.jpg" alt="Descrição"')
 
 criaCartao(
     'html',
-    '6)O que é o atributo alt em uma tag <img>?',
+    '6)O que é o atributo alt em uma tag img?',
     'O atributo alt fornece uma descrição textual da imagem, que é exibida caso a imagem não carregue ou para leitores de tela.')
 
 criaCartao(
     'html',
-    '7)Qual é a diferença entre as tags <ul> e <ol>?',
-    ' é uma lista não ordenada (usada com marcadores), enquanto <ol> é uma lista ordenada (com números ou letras).')
+    '7)Qual é a diferença entre as tags ul e ol?',
+    ' é uma lista não ordenada (usada com marcadores), enquanto ol é uma lista ordenada (com números ou letras).')
 
 criaCartao(
     'html',
-    '8)O que faz a tag <meta> no HTML?',
-    'A tag <meta> define metadados, como a codificação de caracteres, autor da página, e configurações para dispositivos móveis.')
+    '8)O que faz a tag meta no HTML?',
+    'A tag meta define metadados, como a codificação de caracteres, autor da página, e configurações para dispositivos móveis.')
 
 criaCartao(
     'html',
     '9)Como você cria um formulário em HTML?',
-    'Usando a tag <form> com diferentes tipos de campos de entrada, como <input>, <textarea>, <select>, etc..')
+    'Usando a tag form com diferentes tipos de campos de entrada, como input, textarea, select, etc..')
 
 criaCartao(
     'html',
-    '10)O que é uma tag <section>?',
-    'A tag <section> é usada para agrupar conteúdo tematicamente relacionado, como uma seção de um artigo ou página.')
+    '10)O que é uma tag section?',
+    'A tag section é usada para agrupar conteúdo tematicamente relacionado, como uma seção de um artigo ou página.')
 
 criaCartao(
     'cssl',
