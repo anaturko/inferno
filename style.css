@@ -91,3 +91,14 @@ footer {
     background-color: var(--cor-verso-cartao);
     border: 4px solid var(--roda-pe);
 }
+header{
+    background-color: var(--roda-pe);
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+header a{
+    color: var(--branco);
+    text-decoration: none;
+}
