@@ -5,7 +5,7 @@ criaCartao(
 
 criaCartao(
     'html',
-    '2)O que é um elemento <div> no HTML?',
+    '2)O que é um elemento div no HTML?',
     ' é uma tag de bloco usada para agrupar outros elementos HTML, geralmente para fins de estilização ou organização do layout.')
 
 criaCartao(
